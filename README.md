@@ -1,2 +1,0 @@
-# LoginAppGlobus
-Globus SDK environment
